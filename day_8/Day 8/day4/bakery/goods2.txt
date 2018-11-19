@@ -1,0 +1,102 @@
+-- creating bakeryDB database
+
+-- changing database to bakeryDB	
+
+-- import data from goods.csv
+
+
+
+-- Questions :
+
+-- 1. Display How many Chocolate Flavoured Foods are there in goods table ?
+
+
+-- 2. Display the total price of Foods which are Apple Flavoured from goods table ?
+
+
+-- 3. Display average amount of cake Flavoured Foods from goods table ?
+
+
+-- 4. Display the maximum price from goods table ?
+
+
+-- 5. Display the minimum price from goods table 
+?
+
+
+
+-- Questions :
+
+-- 1. Display count of every Food from goods table
+
+
+-- 3. Display average price for Cake or Eclair from goods table ?
+
+
+-- 4. Display the maximum price of each Food from goods table ?
+
+
+-- 5. Display the minimum price of each Flavour from goods table ?
+
+
+
+
+-- Questions :
+
+-- 1. Display count of every Food from goods table and sort them by count ?
+
+
+-- 2. Display the total price of each Flavour from goods table and sort them by price ?
+
+
+-- 3. Display average price for each Food from goods table and sort them by average price ?
+
+
+
+
+
+
+
+
+-- 4. Display the maximum price of each Food from goods table and sort them by maximum price ?
+
+
+
+-- 5. Display the minimum price of each Flavour from goods table and sort them by minimum price ?
+
+
+
+
+
+-- Questions :
+
+-- 1. Display count of every Food from goods table in descending order ?
+
+
+
+-- 2. Display the total price of each Flavour from goods table in descending order ?
+
+
+-- 3. Display average price for each Food from goods table in descending order ?
+- 4. Display the maximum price for each food from goods table in descending order ?
+
+
+-- 5. Display the minimum price for each food from goods table in descending order ?
+
+
+
+
+
+-- Question :
+
+-- 1. Display Flavour column from goods table without duplicates ?
+
+
+
+-- Question :
+
+-- 1. Display count of each Food, 
+   which have Chocolate Flavour , 
+   also arrange food's name in alphabetical order ?
+
+

@@ -1,0 +1,77 @@
+-- creating cardb database
+
+
+-- changing database to cardb	
+
+
+-- import data from enrollment.csv
+
+-- SQL Functions
+
+-- COUNT()
+-- SUM()
+-- AVG()
+-- MAX()
+-- MIN()
+
+-- Questions :
+
+-- 1. Display How many entries are there in enrollment table ?
+
+
+
+
+-- 2. Display average number of enrollment from campus 2,  from enrollment table ?
+
+
+-- 4. Display the maximum campus code number from enrollment table ?
+
+
+-- 5. Display the minimum campus code number  from enrollment table ?
+
+
+
+
+-- GROUP BY clause
+
+-- Questions :
+
+-- 1. Display count number of totalEnrollment_AYs from every campus  ?
+
+
+
+
+
+-- 4. Display the maximum campus code  from enrollment table ?
+
+
+-- 5. Display the minimum campus code from enrollment table ?
+
+
+
+
+-- SQL ORDER BY to sort by column(s)
+
+-- Questions :
+
+-- 1. Display count of totalEnrollment_AYs from every campus and sort them in ascending order from enrollment table ?
+
+
+
+
+
+-- SQL DISTINCT basically removes all duplicates
+
+-- Question :
+
+-- 1. Display totalEnrollment_AY column from enrollment table without duplicates ?
+
+
+
+-- Question :
+
+-- 1. Display count of each car totalEnrollment_AY , 
+--    who have value of campus equal to or more than 3  ?
+
+
+

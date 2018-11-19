@@ -1,0 +1,48 @@
+-- insertng necessary data for join queries
+
+
+Insert into car_names values(407, 'aston martin', 'aston');
+
+
+
+Insert into cars_data (MPG, Cylinders, Edispl, Horsepower, weight, accelerate, year)
+values(14, 5, 56,120,1800,9.0,2013);
+
+
+
+
+
+
+
+-- write an sql query to make the cartesian product between car_names and cars_data 
+i.e. each car_names will appear for all cars_data and vice versa.
+
+
+
+
+
+
+
+-- write an sql query to make report of model, make, MPG, cyllenders  for car_names 
+who are having cars_data and car_names who does not associated with any of cars_data.
+
+
+
+
+
+
+-- write an sql query to make report of model, make, MPG, cyllenders  for car_names 
+who are having cars_data and car_names who does not associated with any of cars_data.
+
+
+
+
+
+
+
+
+-- write an sql query to make report of model, make, MPG, cyllenders  for cars_data 
+who are having cars_data or not associated with any car_names and car_names 
+who does not associated with any of cars_data also.
+
+

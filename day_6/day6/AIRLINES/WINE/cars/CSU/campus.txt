@@ -1,0 +1,48 @@
+-- Create Database with name campusDB;
+
+
+-- 1. Report all campuses from Los Angeles county. 
+-- Output the full name of campus in alphabetical order.
+
+
+-- 2. 
+-- For each year between 1994 and 2004 (inclusive) report the number of
+-- students who enrolled for undergraduate from California Maritime Academy Output
+-- the year,no. of enrollments for each year.
+
+
+-- 3. 
+-- Report undergraduate and graduate enrollments (as two numbers) in
+-- ’Mathematics’, ’Engineering’ and ’Computer'.
+
+
+-- 4. 
+-- Report graduate enrollments in 2004 
+-- Report only one row from each university  
+-- the number of graduate students.
+
+
+-- 5. 
+-- Find all  campuses where graduate enrollment in 2004
+-- was at least double than undergraduate enrollment. 
+-- Report campus names and discipline id. 
+-- Sort output by campus name in alphabetical order.
+
+
+-- 6. 
+-- Report the total amount of money collected from student fees at ’Fresno State
+-- University’ for each year between 2002 and 2004 inclusively,. Output the year.
+
+
+-- 7. 
+-- Find all campuses where enrollment in 2004 ,
+-- was higher than the 2004 enrollment in ’San Jose State University’.
+-- Report the name of campus.
+
+
+
+
+
+
+
+

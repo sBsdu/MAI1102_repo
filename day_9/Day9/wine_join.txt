@@ -1,0 +1,48 @@
+-- insertng necessary data for join queries
+
+
+Insert into grapes values(21, 'aston Malbec', 'purple');
+
+
+
+Insert into wine (no, winery, appelation, state, name, year, price, score, cases, drink)
+values(501, 'enotria', 'India','Delhi','Giana',2009,100,97, 6000, 2006);
+
+
+
+
+
+
+
+-- write an sql query to make the cartesian product between grapes and wines 
+i.e. each grapes will appear for all wines and vice versa.
+
+
+
+
+
+
+
+
+-- write an sql query to make report of grape,winary,appelletion,year,price,color 
+for grapes who are having wines and wines who does not associated with any of grapes.
+
+
+
+
+
+
+
+-- write an sql query to make report of grape,winary,appelletion,year,price,color  
+for wine who are having grape and grapes who does not associated with any of wine.
+
+
+
+
+
+
+
+-- write an sql query to make report of grape,winary,appelletion,year,price,color  
+for wine who are having grapes or not associated with any wine and wine 
+who does not associated with any of grapes also.
+

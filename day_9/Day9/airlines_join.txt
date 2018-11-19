@@ -1,0 +1,45 @@
+
+
+
+-- insertng necessary data for join queries
+
+Insert into airlines values(13, 'kingfisher','KingFs', 'india');
+
+
+Insert into flights (flightno, sourceairport, destairport)values(2001, 'Jaipur', 'delhi');
+
+
+
+
+
+-- write an sql query to make the cartesian product between airline and flights 
+i.e. each airline will appear for all flights and vice versa.
+
+
+
+
+
+
+-- write an sql query to make report of country, flight no., source airport, destairport  
+for airlines who are having flights and flights who does not associated with any of airlines.
+
+
+
+
+
+
+-- write an sql query to make report of country, flight no., source airport, destairport  
+for flights who are having airlines and airlines who does not associated with any of flights.
+
+
+
+
+
+
+
+-- write an sql query to make report of country, flight no., source airport, destairport  
+for flights who are having airlines or not associated with any airlines and flights 
+who does not associated with any of airlines also.
+
+
+

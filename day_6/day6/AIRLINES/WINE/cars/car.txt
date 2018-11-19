@@ -1,0 +1,176 @@
+-- Find all Reanults (’renault’) in the database. 
+-- For each, report the name and the year. 
+-- Sort output by year.
+
+
+
+
+
+/*
+
+
+Find all cars produced by Volvo between 1977 and 1981 (inclusive).
+Report the name of the car and the year it was produced, sort output
+in ascending order by the year.
+
+
+*/
+
+
+
+
+
+
+
+/*
+
+Find all non-four cylinder cars produced in 1980 that have a better
+fuel economy better than 20 MPG and that accelerate to 60 mph faster
+than in 15 seconds. 
+Report the name of the car and the name of the automaker.
+
+
+*/
+
+
+ 
+
+
+
+/*
+
+For each saab released after 1978, compute the average of horsepowers. 
+Report the full name of the car, the year it was produced and the average sorted in descending order.
+
+*/
+
+
+
+/*
+
+
+For each year in which honda produced more than 2 models, report the
+best, the worst and the average gas milage of a toyota vehicle. Report
+results in chronological order.
+
+*/
+
+
+
+
+
+
+/*
+
+
+Report all vehicles with  acceleration greater than 11  . For each vehicle, report
+its full name and the year of production and sort the result with production year and secondary sort it by hourse power.
+
+
+*/
+
+
+
+
+
+
+/*
+
+Find the most fuel-efficient 8-cylinder model. Report the full name of
+the car, the year it was produced.
+
+*/
+
+
+
+
+
+
+
+/*
+Find all car names with at least one light
+(weight less than 2000lbs) car between 1979 and 1981 (inclusively).
+Output the full name of the company and Each company should be reported just once.
+
+*/
+
+
+
+/* 
+-- For each saab released after 1978, compute the ratio between the
+-- weight of the car and its number of horsepowers. 
+-- Report the full name of the car, the year it was produced and the ratio sorted in descending
+-- order by the ratio.
+
+*/
+
+-- 1. 
+-- For CountryId '4' car maker report
+-- the best mileage per gallon of a car produced by it and the average
+-- acceleration. 
+
+
+
+
+-- 2. 
+-- Display 4-cylinder car models that are lighter than 4000 lbs
+-- acceleration better than 14 seconds.
+
+
+
+-- 3. 
+-- For each year report the
+-- best, the worst and the average gas milage of a toyota vehicle. Report
+-- results in chronological order.
+
+
+
+-- 4. 
+-- For each year when ford manufactured cars averaged less than 100
+-- horsepowers, report the highest and the lowest engine displacement
+-- number. Sort in chronological order.
+
+
+
+-- 1. 
+-- Report all buick model with the best acceleration. For each vehicle, report
+-- its full name and the year of production with Ascending order withAcceleration.
+
+
+-- 2. 
+-- Among the vehicles with the best acceleration, report the most powerful
+-- (horsepower) one. Report full name and the year of production.
+
+
+
+
+-- 3. 
+-- Find the Models from 1976, 
+-- Models had the best average gas milage. Report the Model,
+-- the average gas milage.
+
+
+
+-- 4. 
+-- For chevrolet model in 1978 display Model, Cylinders abd Acceleration whose have more than 100 engine displacement.
+
+
+
+-- 5. 
+-- Find the most fuel-efficient 8-cylinder model. Report the full name of
+-- the car model, the year it was produced and the weight.
+
+
+
+-- 6. 
+-- Find the difference in gas milage between the most fuel-efficient 8-
+-- cylinder model and the least fuel-efficient 8-cylinder model. Report
+-- just the number.
+
+
+
+-- 7. For each Model report the number of 4-cylinder models its models
+-- have produced in the 1970s which have higher horsepower than some
+-- cylinder model also produced in the 1970s.
+
+

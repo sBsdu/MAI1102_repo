@@ -1,0 +1,39 @@
+CREATE DATABASE airlinesDB;
+
+
+
+-- 1. 
+-- Find all airlines that have at least one flight out of AXX airport. Report
+-- the full name and the abbreviation of each airline. 
+-- Report each name only once. Sort the airlines in alphabetical order.
+
+
+
+-- 2. 
+-- Find all destinations served from the AXX airport by Northwest. Report
+-- flight number and the full name of the airlne. Sort
+-- in ascending order by flight number.
+
+
+
+-- 3. 
+-- Find all other destinations that are accessible from AHT
+-- flights with exactly one change-over. Report pairs of flight numbers,
+-- airport codes for the final destinations, and full names of the airlines
+-- sorted in alphabetical order by the airport code.
+
+
+
+-- 4. 
+-- Report all pairs of flightNo served by both Frontier and JetBlue.
+-- Each pair must be reported exactly once.
+
+
+
+-- 5. 
+-- Find ALL five of the airlines listed below: Delta,
+-- Frontier, USAir, UAL and Southwest. From To
+
+
+
+

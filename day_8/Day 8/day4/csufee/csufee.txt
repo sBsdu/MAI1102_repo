@@ -1,0 +1,77 @@
+-- creating cardb database
+
+
+-- changing database to cardb	
+
+
+-- import data from csufee.csv
+
+-- SQL Functions
+
+-- COUNT()
+-- SUM()
+-- AVG()
+-- MAX()
+-- MIN()
+
+-- Questions :
+
+-- 1. Display How many entries are there in csufee table ?
+
+
+
+
+-- 2. Display average number of CampusFee from campus 2,  from csufee table ?
+
+
+-- 4. Display the maximum campus code number from csufee table ?
+
+
+-- 5. Display the minimum campus code number  from csufee table ?
+
+
+
+
+-- GROUP BY clause
+
+-- Questions :
+
+-- 1. Display count number of totalcsufee_AYs from every campus  ?
+
+
+
+
+
+-- 4. Display the maximum campus code  from csufee table ?
+
+
+-- 5. Display the minimum campus code from csufee table ?
+
+
+
+
+-- SQL ORDER BY to sort by column(s)
+
+-- Questions :
+
+-- 1. Display count of totalcsufee_AYs from every campus and sort them in ascending order from csufee table ?
+
+
+
+
+
+-- SQL DISTINCT basically removes all duplicates
+
+-- Question :
+
+-- 1. Display totalcsufee_AY column from csufee table without duplicates ?
+
+
+
+-- Question :
+
+-- 1. Display count of each car totalcsufee_AY , 
+--    who have value of campus equal to or more than 3  ?
+
+
+

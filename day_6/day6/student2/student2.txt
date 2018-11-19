@@ -1,0 +1,177 @@
+-- You are given a list of students of a local elementary school together with their class assignment. 
+-- The list is stored in a file students.txt.
+-- Each line of the file stores information about exactly one student.
+-- format of the line is:
+-- StLastName, StFirstName, Grade, Classroom, Bus, TLastName, TFirstName
+
+-- Here, StLastName and StFirstName identify the student
+-- Grade specifies the grade the student goes to
+-- Classroom specifies the classroom where the student studies
+-- Bus is the school bus route that the student takes to come to school.
+-- TLastName and TFirstName identify the student’s teacher
+
+-- Bus, Grade and Classroom are integers
+-- Kindergarden is 0 for Grade Column
+-- a student who is arriving to school by own means is 0 in Bus Column
+-- while all other fields are strings
+
+
+-- DROP, SHERMAN, 0, 104, 51, NIBLER, JERLENE
+-- “Sherman Drop, who takes bus route 51, 
+-- is a kindergarden student assigned to 
+-- the class of Mrs. Jerlene Nibler 
+-- in the classroom 104.”
+
+
+-- TASK 1
+-- Given a student’s last name, find the student’s grade, classroom and
+-- teacher
+
+
+-- TASK 2
+-- Given a student’s last name, find the bus route the student takes
+
+
+-- TASK 3
+-- Given a teacher, find the list of students in his/her class
+
+
+-- TASK 4
+-- Given a bus route, find all students who take it
+
+
+-- TASK 5
+-- Find all students at a specified grade level.
+
+
+-- TASK 6
+-- Find a student with a given last name
+-- For each entry found, print the last name, first name, grade, classroom and teacher name
+
+
+-- TASK 7
+-- Find a student with a given last name
+-- For each entry found, print the last name, first name and the bus route
+-- the student takes
+
+
+-- TASK 8
+-- Find a teacher with a given last name
+-- For each entry found, print the last and the first name of the student.
+
+
+-- TASK 9
+-- Find a classroom with a number 
+-- For each entry, output the name (last and first) of the student
+
+
+-- TASK 10
+-- Find a bus with a number 
+-- For each such entry, output the first and the last name of the student
+-- and their grade and classroom
+
+
+-- Task 11
+-- Display all the unique bus routes
+
+
+-- Task 12
+-- Display the total number of students for each bus routes
+
+
+-- Task 13
+-- Display all the unique Grades
+
+
+-- Task 14
+-- Display the total number of students for each grades
+
+-- You are given a list of students of a local elementary school together with their class assignment. 
+-- The list is stored in a file students.txt.
+-- Each line of the file stores information about exactly one student.
+-- format of the line is:
+-- StLastName, StFirstName, Grade, Classroom, Bus, TLastName, TFirstName
+
+-- Here, StLastName and StFirstName identify the student
+-- Grade specifies the grade the student goes to
+-- Classroom specifies the classroom where the student studies
+-- Bus is the school bus route that the student takes to come to school.
+-- TLastName and TFirstName identify the student’s teacher
+
+-- Bus, Grade and Classroom are integers
+-- Kindergarden is 0 for Grade Column
+-- a student who is arriving to school by own means is 0 in Bus Column
+-- while all other fields are strings
+
+
+-- DROP, SHERMAN, 0, 104, 51, NIBLER, JERLENE
+-- “Sherman Drop, who takes bus route 51, 
+-- is a kindergarden student assigned to 
+-- the class of Mrs. Jerlene Nibler 
+-- in the classroom 104.”
+
+
+-- TASK 1
+-- Given a student’s last name, find the student’s grade, classroom and
+-- teacher
+
+
+-- TASK 2
+-- Given a student’s last name, find the bus route the student takes
+
+
+-- TASK 3
+-- Given a teacher, find the list of students in his/her class
+
+
+-- TASK 4
+-- Given a bus route, find all students who take it
+
+
+-- TASK 5
+-- Find all students at a specified grade level.
+
+
+-- TASK 6
+-- Find a student with a given last name
+-- For each entry found, print the last name, first name, grade, classroom and teacher name
+
+
+-- TASK 7
+-- Find a student with a given last name
+-- For each entry found, print the last name, first name and the bus route
+-- the student takes
+
+
+-- TASK 8
+-- Find a teacher with a given last name
+-- For each entry found, print the last and the first name of the student.
+
+
+-- TASK 9
+-- Find a classroom with a number 
+-- For each entry, output the name (last and first) of the student
+
+
+-- TASK 10
+-- Find a bus with a number 
+-- For each such entry, output the first and the last name of the student
+-- and their grade and classroom
+
+
+-- Task 11
+-- Display all the unique bus routes
+
+
+-- Task 12
+-- Display the total number of students for each bus routes
+
+
+-- Task 13
+-- Display all the unique Grades
+
+
+-- Task 14
+-- Display the total number of students for each grades
+
+

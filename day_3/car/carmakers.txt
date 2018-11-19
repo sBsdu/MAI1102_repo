@@ -1,0 +1,133 @@
+﻿
+1. creating zooDB database
+
+
+2. changing database to zoodb	
+use carDB; 
+
+3. import data from carmakers.csv
+
+
+4. SQL operators
+
+-- Question 1:
+-- Display all columns data of all the rows from the carmakers table ?
+
+
+-- Question 2:
+-- Display car makers and their country code from carmakers table ?
+
+
+-- Question 3:
+-- Display fullName of all car makers from carmakers table ?
+
+
+
+5. SQL WHERE operators
+
+-- Question 1:
+-- Select all carmakers name who has country code 4 from carmakers table ?
+
+
+
+
+-- Question 2:
+-- Select all carmakers name who has country code 2 and 5 from carmakers table ?
+
+
+
+
+6. SQL WHERE with comparison operators
+
+-- comparison operators
+-- =	  Equals to
+-- <>	not equals to
+-- !=	not equals to
+-- <	  Less than
+-- <=	Less-equal than
+-- >	  Greater than
+-- >=	Greater-equal than
+
+
+-- Question 1:
+-- Select all carmakers name who does not have  country code 2 and 5 from carmakers table ?
+
+
+
+-- Question 2:
+-- Select all carmakers name whose country code is greater than 2 from carmakers table ?
+
+
+
+7. SQL WHERE clause with LIKE operator
+
+-- Question 1:
+-- Select all carmakers name whose name contains first letter as h from carmakers table ?
+
+
+
+
+-- Question 2:
+-- Select all carmakers name whose fullName ends with da from carmakers table ?
+
+
+
+-- Question 3:
+-- Select all carmakers name whose name exactly 4 characters from carmakers table ?
+
+
+
+8. SQL WHERE clause with AND logical operator
+
+-- Question 1:
+-- Select only those animals  from the zoo table ? that:
+-- •	have a name exactly five characters long
+-- •	are not tigers
+-- •	have a water_need more than 200
+
+
+9. SQL WHERE clause with OR logical operator
+
+
+-- AND returns every row where all the conditions are true.
+-- OR returns every row where at least one of the conditions is true.
+
+-- Question 1:
+-- Select all carmakers name who has country code 2 or whose name ends with enfrom carmakers table ?
+
+
+10. SQL IN operator
+
+-- Question 1:
+-- Select all carmakers name whose country code are 2,3,4,5 from carmakers table ?
+
+
+
+
+11. The SQL NOT operator
+-- Question 1:
+-- Select all the makers that are not 4 characters long from carmakers table ?
+
+
+
+
+12. The SQL  IS NULL operator
+-- Select all carmakers name where country code is null?
+
+
+
+
+
+
+13. The SQL BETWEEN operator
+-- Select all carmakers name whose country code between 2 and 5 from carmakers table ?
+
+
+
+14. The SQL ORDER BY operator
+-- sort carmakers table with their country code?
+
+
+
+
+

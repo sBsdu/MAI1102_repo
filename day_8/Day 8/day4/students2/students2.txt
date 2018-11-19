@@ -1,0 +1,29 @@
+USE studentsDB;
+
+SELECT * FROM STUDENTS;
+
+-- 1. Display How many students are there in students table ?
+
+-- 2. Display the average grade of students from students table ?
+
+-- 3. Display the maximum grade from students table ?
+
+-- 4. Display the minimum grade from students table ?
+
+-- 5. Display the count of students for each grade from students table ?
+
+-- 6. Display average grade for classroom 101 or 102 from students table ?
+
+-- 7. Display the maximum grade of each classroom from students table ?
+
+-- 8. Display the minimum grade of each classroom from students table ?
+
+-- 9. Display count of every classroom from students table and sort them by count ?
+
+-- 10. Display average grade for each classroom from students table in descending order ?
+
+-- 11. Display the maximum grade of each classroom from students table and sort them by maximum grade ?
+
+-- 12. Display the minimum grade of each classroom from students table in descending order ?
+
+-- 13. Display the grade, Firstname, Secondname and classroom of top 3 students according to their grade from students table ?

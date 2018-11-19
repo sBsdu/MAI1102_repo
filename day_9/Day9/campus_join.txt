@@ -1,0 +1,38 @@
+-- insertng necessary data for join queries
+
+Insert into csufees values(200, 2007, 4000);
+
+
+
+Insert into campuses (campus, location, county, year)
+values('Indian School Of Management', 'Delhi', 'India',2003);
+
+
+
+
+
+
+-- write an sql query to make the cartesian product between Campuses and csufees 
+i.e. each campuses will appear for all csufees and vice versa.
+
+
+
+
+
+-- write an sql query to make report of country, campus name, year, campus fees  
+for campuses who are having csufees and csufees who does not associated with any of campuses.
+
+
+
+
+
+
+-- write an sql query to make report of country, campus name, year, campus fees  for campuses 
+who are having csufees and csufees who does not associated with any of campuses.
+
+
+
+
+
+-- write an sql query to make report of country, campus name, year, campus
+

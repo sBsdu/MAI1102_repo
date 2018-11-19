@@ -1,0 +1,43 @@
+CREATE DATABASE innDB;
+
+
+-- 1. 
+-- Find all modern rooms with a base price below $160 and two beds.
+-- Report room names and codes in alphabetical order by the code.
+
+
+
+-- 2. 
+-- Find all July reservations for the ’Convoke and sanguine’ room. For each reservation
+-- report the last name of the person who reserved it, checkin and
+-- checkout dates, the total number of people staying and the daily rate.
+-- Output reservations in chronological order.
+
+
+
+
+-- 3. 
+-- Find all rooms occupied on February 6, 2010. Report full name of the
+-- room, the check-in and checkout dates of the reservation. Sort output
+-- in alphabetical order by room name.
+
+
+
+
+-- 4. 
+-- For each stay of GRANT KNERIEN in the hotel, calculate the total amount
+-- of money, he paid. Report reservation code, checkin and checkout
+-- dates, room name (full) and the total amount of money the stay cost.
+-- Sort output in chronological order by the day of arrival.
+
+
+
+
+-- 5. 
+-- For each reservation that starts on December 31, 2010 report the room
+-- name, nightly rate and the total amount of
+-- money paid. Sort output in descending order by the number of nights
+-- stayed.
+
+
+

@@ -1,0 +1,76 @@
+-- creating cardb database
+
+
+-- changing database to cardb	
+ 
+
+-- import data from carmakers.csv
+
+-- SQL Functions
+
+-- COUNT()
+-- SUM()
+-- AVG()
+-- MAX()
+-- MIN()
+
+-- Questions :
+
+-- 1. Display How many entries are there in carmakers table ?
+
+
+
+
+-- 2. Display average number of carmakers from country 2,  from carmakers table ?
+
+
+-- 4. Display the maximum country code number from carmakers table ?
+
+
+-- 5. Display the minimum country code number  from carmakers table ?
+
+
+
+
+-- GROUP BY clause
+
+-- Questions :
+
+-- 1. Display count number of makers from every country  ?
+
+
+
+
+
+-- 4. Display the maximum country code  from carmakers table ?
+
+
+-- 5. Display the minimum country code from carmakers table ?
+
+
+
+
+-- SQL ORDER BY to sort by column(s)
+
+-- Questions :
+
+-- 1. Display count of makers from every country and sort them in ascending order from carmakers table ?
+
+
+
+
+
+-- SQL DISTINCT basically removes all duplicates
+
+-- Question :
+
+-- 1. Display maker column from carmakers table without duplicates ?
+
+
+-- Question :
+
+-- 1. Display count of each car maker , 
+--    who have value of country equal to or more than 3  ?
+
+
+

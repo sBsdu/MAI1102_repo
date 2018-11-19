@@ -1,0 +1,46 @@
+Q 1. Given a student’s last name, find the student’s grade, 
+classroom .
+
+Q 2. Given a student’s last name, find the bus route the student takes
+
+Q 3. Find all students at a specified grade level
+
+Q 4. For each entry found, print the last name, first name, grade, classroom 
+
+Q 5. Display the total number of students for each bus routes
+
+Q 6. Display the total number of students for each grades
+
+Q 7. Find all cars produced by Volvo between 1977 and 1981 (inclusive)
+
+Q 8. 
+-- Display all columns data of all the rows from the flights table ?
+
+
+
+Q 9. 
+-- Display source and destination airport  from flights table ?
+
+
+
+Q 10.
+-- Select all flights whose airline number is 3 or 5 from flights table ?
+
+
+Q 11.
+-- Question 3:
+-- Display  all airline code  from flights table ?
+
+
+
+Q 12.
+-- Select all flights whose airline number is 3 from flights table ?
+
+
+
+
+
+
+
+
+
